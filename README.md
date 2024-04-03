@@ -1,2 +1,2 @@
 # Canadian-Flood-Map-Supporting-Documentation
-Scripts implemented for data cleaning and database development for historic Canadian flood data.
+Scripts implemented for data cleaning, database development, and web map creation for historic Canadian flood data.
